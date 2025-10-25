@@ -1,3 +1,3 @@
-# Placeholder
+# kultama
 
-This is a placeholder message for the README file.
+Este es mi primer commit para el rol de base
